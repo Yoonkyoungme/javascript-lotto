@@ -1,5 +1,5 @@
-import makeRandomInRange from '../utils/makeRandomInRange.js';
-import LOTTO_RULES from '../constants/lotto-rules.js';
+import makeRandomInRange from '../utils/makeRandomInRange';
+import LOTTO_RULES from '../constants/lotto-rules';
 
 class LottoGenerator {
   #generatedLottos;

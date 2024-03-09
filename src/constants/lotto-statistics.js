@@ -1,4 +1,4 @@
-export const LOTTO_STATISTICS = {
+const LOTTO_STATISTICS = {
   three: {
     price: 5_000,
     number: 3,
@@ -21,4 +21,4 @@ export const LOTTO_STATISTICS = {
   },
 };
 
-export const COMPARE_LOTTO_COUNT = 'fiveBonus';
+export default LOTTO_STATISTICS;

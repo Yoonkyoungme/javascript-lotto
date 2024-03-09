@@ -1,4 +1,4 @@
-import Console from './Console.js';
+import Console from './Console';
 
 async function executeWithRetry(asyncFunc) {
   try {

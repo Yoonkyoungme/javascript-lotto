@@ -1,5 +1,5 @@
-import Console from '../utils/Console.js';
-import { INPUT_MESSAGES } from '../constants/messages.js';
+import Console from '../utils/Console';
+import { INPUT_MESSAGES } from '../constants/messages';
 
 const { readLineAsync } = Console;
 
